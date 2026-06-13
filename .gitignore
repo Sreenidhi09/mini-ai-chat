@@ -1,0 +1,7 @@
+@"
+.env
+__pycache__/
+*.pyc
+chat.db
+.streamlit/secrets.toml
+"@ | Out-File -FilePath .gitignore -Encoding utf8
