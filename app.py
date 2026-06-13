@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://mini-ai-chat-wfvn.onrender.com"
 
 st.set_page_config(
     page_title="Mini AI Chat",
